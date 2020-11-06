@@ -26,16 +26,19 @@ wine21.com에서 20만원 미만의 레드, 화이트, 로제, 스파클링, 기
 
 <추천 시스템>
 ## 추천 알고리즘 : Collaborative Filtering
-![Screen Shot 2020-11-06 at 18 21 50](https://user-images.githubusercontent.com/68367134/98349196-0b62be00-205d-11eb-92ba-6de9bb622e45.png)
+![Screen Shot 2020-11-06 at 18 21 50](https://user-images.githubusercontent.com/68367134/98349958-00f4f400-205e-11eb-897a-e5d1edd4523b.png)
 
-### user based filtering & item based filtering
-
+### User Based Filtering & Item Based Filtering
 - user based filtering : 커피 성향이 비슷한 소비자들이 많이 선택한 와인을 1차적으로 선별
 - item based filtering : 선별된 와인 중 고객이 와인과 함께 먹을 음식, 선호하는 향과 가격대에서 코사인 유사도 거리가 가장 가까운 와인을 추천
 
-
+#### Cold Start의 문제점
+- 고객이 평가하기 전에는 추천해줄 수 없으므로 임의로 sample함수를 통해 각 커피 성향에 따른 3000개의 리뷰 데이터 생성 
 
 ## 평가
+- 정성적 평가 like
+
+## 한계점
 
 <카카오톡 친구>
 ## 서비스화
