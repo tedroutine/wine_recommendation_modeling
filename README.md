@@ -15,7 +15,7 @@ wine21.com에서 20만원 미만의 레드, 화이트, 로제, 스파클링, 기
 1. Grape type : 혼합된 포도를 사용한 와인은 가장 첫번째 포도 품종으로 분류
 2. Food pairing : 같이 먹기 좋은 음식에 언급된 명사를 기반으로 육류(meat), 치즈(cheese), 해산물(seafood), 채소 및 과일(vegetables), 디저트(dessert)로 카테고리화 
 
-3. Aroma : 와인 메이커 노트에 언급된 향을 꽃향(floral), 과일향(fruity), 시트러스향(citrus) 가죽향(oriental_leather), 스파이스향(spice), 숲향(earth)으로 카테고리
+3. Aroma : 와인 메이커 노트에 언급된 향을 꽃향(floral), 과일향(fruity), 시트러스향(citrus) 가죽향(oriental_leather), 스파이스향(spice), 숲향(earth)으로 카테고리화
     - 꽃향, 과일향, 시트러스향은 'fruity flavor'으로 가죽향, 스파이스향, 흙향은 'dark flavor'로 추가적으로 2차 분류
     - 메이커 노트에 향에 대해 언급이 없는 와인은 제거
 
