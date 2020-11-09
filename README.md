@@ -7,8 +7,8 @@
 ![html](https://user-images.githubusercontent.com/68367134/98533239-0ce2ef00-22c6-11eb-9377-77ca745d1546.png)
 
 ### 개발 환경
-- jupyter notebook
-- flask
+![jupyter notebook (1)](https://user-images.githubusercontent.com/68367134/98533658-9bf00700-22c6-11eb-9b23-7e1c8ed0ed0c.jpeg)
+![flask](https://user-images.githubusercontent.com/68367134/98533377-3f8ce780-22c6-11eb-8736-98895c5173f3.png)
 
 ![A Trick For Choosing Wine _ A Cup of Jo](https://user-images.githubusercontent.com/68367134/98342226-77d8bf80-2053-11eb-8b25-58d33e9093a0.jpeg)
 
