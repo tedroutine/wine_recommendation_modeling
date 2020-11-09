@@ -76,6 +76,8 @@ wine21.com에서 와인 입문자가 즐기기 쉬운 20만원 미만의 레드,
 
 ## 이제 카카오톡에서 만나요.
 @winecoffee 를 카카오톡 친구 추가하여 매일 아침 당신이 마시는 커피를 알려주세요. 오늘 밤 와인 한 잔 할까요?
+![vllo (1)](https://user-images.githubusercontent.com/68367134/98539639-09546580-22d0-11eb-8c3b-1d2e5c92194c.gif)
+
 
 ### 프로그래밍 언어
 ![python](https://user-images.githubusercontent.com/68367134/98533242-0e141c00-22c6-11eb-9d66-2bff894e1d10.png)
