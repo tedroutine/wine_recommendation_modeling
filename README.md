@@ -2,9 +2,9 @@
 ## [명사] Baristar와 Sommelier의 합성어로서 커피 취향을 분석하여 와인을 추천해주는 챗봇.
 
 ### 프로그래밍 언어
-- Python 3.6
-- Javascript
-- HTML
+![python](https://user-images.githubusercontent.com/68367134/98533242-0e141c00-22c6-11eb-9d66-2bff894e1d10.png)
+![JS](https://user-images.githubusercontent.com/68367134/98533240-0d7b8580-22c6-11eb-9112-00776c56b2a5.png)
+![html](https://user-images.githubusercontent.com/68367134/98533239-0ce2ef00-22c6-11eb-9377-77ca745d1546.png)
 
 ### 개발 환경
 - jupyter notebook
