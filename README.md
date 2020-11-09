@@ -24,17 +24,24 @@ wine21.com에서 와인 입문자가 즐기기 쉬운 20만원 미만의 레드,
 ## 당신이 좋아하는 와인만 찾고 싶어서 데이터를 분석했어요.
 1. Grape type : 혼합된 포도를 사용한 와인은 가장 첫번째 포도 품종으로 분류 / '부사'로 만들어진 와인은 제거
 2. Food pairing : 같이 먹기 좋은 음식에 언급된 명사를 기반으로 육류(meat), 치즈(cheese), 해산물(seafood), 채소 및 과일(vegetables), 디저트(dessert)로 카테고리화 
+
 ![Screen Shot 2020-11-09 at 19 38 09](https://user-images.githubusercontent.com/68367134/98534095-5122bf00-22c7-11eb-86a3-5424b1107f95.png)
+
 3. Aroma : 와인 메이커 노트에 언급된 향을 꽃향(floral), 과일향(fruity), 시트러스향(citrus) 가죽향(oriental_leather), 스파이스향(spice), 숲향(earth)으로 카테고리화
     - 꽃향, 과일향, 시트러스향은 'fruity flavor'으로 가죽향, 스파이스향, 흙향은 'dark flavor'로 추가적으로 2차 분류
     - 메이커 노트에 향에 대해 언급이 없는 와인은 제거
+    
 ![Screen Shot 2020-11-09 at 19 38 38](https://user-images.githubusercontent.com/68367134/98534101-53851900-22c7-11eb-9ad2-042afda6f794.png)
 
 4. Continent : 기존의 유럽과 신대륙으로 나뉘던 대륙을 유럽 a(프랑스, 오스트리아..), 유럽 b(이탈리아, 스페인), 북미(미국, 캐나다), 남미(아르헨티나, 칠레), 신대륙(호주,뉴질랜드,남아프리카), 한국으로 재분류
+
 ![Screen Shot 2020-11-09 at 19 39 52](https://user-images.githubusercontent.com/68367134/98534104-54b64600-22c7-11eb-9b4e-ec1c865abe7f.png)
 ![Screen Shot 2020-11-09 at 19 40 43](https://user-images.githubusercontent.com/68367134/98534106-54b64600-22c7-11eb-9ccc-ce19e61811b0.png)
+
 5. Wine type : 로제, 스파클링 와인은 화이트로, 포트 와인은 레드로 편입하였고 셰리 와인은 제거
+
 ![Screen Shot 2020-11-09 at 19 41 06](https://user-images.githubusercontent.com/68367134/98534109-554edc80-22c7-11eb-9f2a-fd35d77576a9.png)
+
 6. Winery : 테스코 와인 제거
 7. Size : 750ml 이외의 모든 사이즈는 제거
 
