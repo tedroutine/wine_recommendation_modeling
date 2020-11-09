@@ -72,7 +72,7 @@ wine21.com에서 와인 입문자가 즐기기 쉬운 20만원 미만의 레드,
 
 ## 이제 카카오톡에서 만나요.
 @winecoffee 를 카카오톡 친구 추가하여 매일 아침 당신이 마시는 커피를 알려주세요. 오늘 밤 와인 한 잔 할까요?
-![vllo (1)](https://user-images.githubusercontent.com/68367134/98542751-b7faa500-22d4-11eb-97da-9e087a6831c6.gif)
+![vllo (1)](https://user-images.githubusercontent.com/68367134/98549235-da44f080-22dd-11eb-8f47-b672bc455c00.gif)
 
 ## Bammlier는 아직 완벽하진 않아요.
 - 협업 필터링 추천 시스템은 고객 데이터가 쌓여야만 추천할 수 있는 cold start 문제점이 존재합니다.
