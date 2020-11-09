@@ -87,3 +87,6 @@ wine21.com에서 와인 입문자가 즐기기 쉬운 20만원 미만의 레드,
 ### 개발 환경
 ![jupyter notebook (1)](https://user-images.githubusercontent.com/68367134/98533658-9bf00700-22c6-11eb-9b23-7e1c8ed0ed0c.jpeg)
 ![flask](https://user-images.githubusercontent.com/68367134/98533377-3f8ce780-22c6-11eb-8736-98895c5173f3.png)
+
+### 팀원 구성
+이태헌, 강동윤
