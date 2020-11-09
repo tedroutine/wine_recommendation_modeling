@@ -18,9 +18,9 @@ wine21.com에서 와인 입문자가 즐기기 쉬운 20만원 미만의 레드,
 
 ![Screen Shot 2020-11-09 at 19 38 09](https://user-images.githubusercontent.com/68367134/98534095-5122bf00-22c7-11eb-86a3-5424b1107f95.png)
 
-3. Aroma : 와인 메이커 노트에 언급된 향을 꽃향(floral), 과일향(fruity), 시트러스향(citrus) 가죽향(oriental_leather), 스파이스향(spice), 숲향(earth)으로 카테고리화
-    - 꽃향, 과일향, 시트러스향은 'fruity flavor'으로 가죽향, 스파이스향, 흙향은 'dark flavor'로 추가적으로 2차 분류
-    - 메이커 노트에 향에 대해 언급이 없는 와인은 제거
+3. Aroma : 와인 메이커 노트에 언급된 향을 꽃향(floral), 과일향(fruity), 시트러스향(citrus), 스파이스향(spice), 스모키향(oriental_leather), 숲향(earth)으로 카테고리화
+    - 꽃향, 과일향, 시트러스향은 'fruity flavor'으로 스파이스향, 스모키향, 흙향은 'dark flavor'로 추가적으로 2차 분류
+    - 향에 대해 언급이 없는 와인은 제거
     
 ![Screen Shot 2020-11-09 at 19 38 38](https://user-images.githubusercontent.com/68367134/98534101-53851900-22c7-11eb-9ad2-042afda6f794.png)
 
