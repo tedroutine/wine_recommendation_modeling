@@ -1,13 +1,3 @@
-### 프로그래밍 언어
-![python](https://user-images.githubusercontent.com/68367134/98533242-0e141c00-22c6-11eb-9d66-2bff894e1d10.png)
-![JS](https://user-images.githubusercontent.com/68367134/98533240-0d7b8580-22c6-11eb-9112-00776c56b2a5.png)
-![html](https://user-images.githubusercontent.com/68367134/98533239-0ce2ef00-22c6-11eb-9377-77ca745d1546.png)
-
-### 개발 환경
-![jupyter notebook (1)](https://user-images.githubusercontent.com/68367134/98533658-9bf00700-22c6-11eb-9b23-7e1c8ed0ed0c.jpeg)
-![flask](https://user-images.githubusercontent.com/68367134/98533377-3f8ce780-22c6-11eb-8736-98895c5173f3.png)
-
-
 # Bammlier
 ## [명사] Baristar와 Sommelier의 합성어로서 커피 취향을 분석하여 와인을 추천해주는 챗봇.
 
@@ -85,3 +75,12 @@ wine21.com에서 와인 입문자가 즐기기 쉬운 20만원 미만의 레드,
 
 ## 이제 카카오톡에서 만나요.
 @winecoffee 를 카카오톡 친구 추가하여 매일 아침 당신이 마시는 커피를 알려주세요. 오늘 밤 와인 한 잔 할까요?
+
+### 프로그래밍 언어
+![python](https://user-images.githubusercontent.com/68367134/98533242-0e141c00-22c6-11eb-9d66-2bff894e1d10.png)
+![JS](https://user-images.githubusercontent.com/68367134/98533240-0d7b8580-22c6-11eb-9112-00776c56b2a5.png)
+![html](https://user-images.githubusercontent.com/68367134/98533239-0ce2ef00-22c6-11eb-9377-77ca745d1546.png)
+
+### 개발 환경
+![jupyter notebook (1)](https://user-images.githubusercontent.com/68367134/98533658-9bf00700-22c6-11eb-9b23-7e1c8ed0ed0c.jpeg)
+![flask](https://user-images.githubusercontent.com/68367134/98533377-3f8ce780-22c6-11eb-8736-98895c5173f3.png)
