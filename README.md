@@ -1,5 +1,5 @@
 # Bammlier
-## [명사] Baristar와 Sommelier의 합성어로서 커피 취향을 분석하여 와인을 추천해주는 챗봇.
+## [명사] Barista와 Sommelier의 합성어로서 커피 취향을 분석하여 와인을 추천해주는 챗봇.
 
 ![A Trick For Choosing Wine _ A Cup of Jo](https://user-images.githubusercontent.com/68367134/98342226-77d8bf80-2053-11eb-8b25-58d33e9093a0.jpeg)
 
