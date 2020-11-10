@@ -36,6 +36,8 @@
 
 출처: https://www.kellyandjones.com/blogs/news/perfumers-guide-to-wine-aromas
 
+![스크린샷 2020-11-10 오후 1 35 54](https://user-images.githubusercontent.com/68261338/98628314-ab6c6000-2359-11eb-9d1c-73114eff6db6.png)
+
 ![Screen Shot 2020-11-09 at 19 38 38](https://user-images.githubusercontent.com/68367134/98534101-53851900-22c7-11eb-9ad2-042afda6f794.png)
 
 4. Continent : 기존의 유럽과 신대륙으로 나뉘던 대륙을 유럽 a(프랑스, 오스트리아..), 유럽 b(이탈리아, 스페인), 북미(미국, 캐나다), 남미(아르헨티나, 칠레), 신대륙(호주,뉴질랜드,남아프리카), 한국으로 재분류
