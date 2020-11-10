@@ -31,7 +31,11 @@
 3. Aroma : 와인 메이커 노트에 언급된 향을 꽃향(floral), 과일향(fruity), 시트러스향(citrus), 스파이스향(spice), 스모키향(oriental_leather), 숲향(earth)으로 카테고리화
     - 꽃향, 과일향, 시트러스향은 'fruity flavor'으로 스파이스향, 스모키향, 흙향은 'dark flavor'로 추가적으로 2차 분류
     - 향에 대해 언급이 없는 와인은 제거
-    
+
+![스크린샷 2020-11-10 오후 12 51 26](https://user-images.githubusercontent.com/68261338/98625784-a86e7100-2353-11eb-8051-dd7e87c2d10a.png)
+
+출처: https://www.kellyandjones.com/blogs/news/perfumers-guide-to-wine-aromas
+
 ![Screen Shot 2020-11-09 at 19 38 38](https://user-images.githubusercontent.com/68367134/98534101-53851900-22c7-11eb-9ad2-042afda6f794.png)
 
 4. Continent : 기존의 유럽과 신대륙으로 나뉘던 대륙을 유럽 a(프랑스, 오스트리아..), 유럽 b(이탈리아, 스페인), 북미(미국, 캐나다), 남미(아르헨티나, 칠레), 신대륙(호주,뉴질랜드,남아프리카), 한국으로 재분류
